@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @firlyafriansyah
+- 👀 I’m interested in Front End Developer Web || Mobile
+- 🌱 I’m currently learning Javascript, and focus on ReactJs && React Native
+- 📫 visit my website https://firlyafriansyah.com for more detail or contact me
